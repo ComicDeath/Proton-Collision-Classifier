@@ -1,4 +1,4 @@
-![ILUM, CNPEM, MINISTÉRIO DA EDUCAÇÃO](https://github.com/ComicDeath/Proton-Collision-Classifier/blob/main/Figuras/)
+![ILUM, CNPEM, MINISTÉRIO DA EDUCAÇÃO](https://github.com/ComicDeath/Proton-Collision-Classifier/blob/main/Figuras/ilum_colorida.png)
 
 <h1 align="center"> PCC - Proton Collision Classifier</h1>
 
@@ -46,7 +46,8 @@ O projeto foi desenvolvido pela equipe **Os Apanhadores no Campo de Hádrons**, 
 - [**João Henrique de Lima Gasquez**](https://github.com/ComicDeath)
 * o que o joao fez
 
-![Brasão da Guilda](https://github.com/ComicDeath/Proton-Collision-Classifier/blob/main/Figuras/  )
+![Brasão da Guilda](https://github.com/ComicDeath/Proton-Collision-Classifier/blob/main/Figuras/brasao.png)
+
 “Cada colisão conta uma história!”
   
 # Docentes
@@ -57,6 +58,6 @@ A matéria de Aprendizado de Máquina foi ministrada por:
 Distribuído sob a licença GNU General Public License 3.0, cheque `LICENSE` para mais informações.
 
 ## Referências para a construção do README
- ROCKETSEAT. **Como fazer um bom README.** Disponível em: https://blog.rocketseat.com.br/como-fazer-um-bom-readme/. Acesso em: 22 de jun. 2025.
+ ROCKETSEAT. **Como fazer um bom README.** Disponível em: https://blog.rocketseat.com.br/como-fazer-um-bom-readme/. Acesso em: 2 de novembro de 2025.
 
-![ILUM, CNPEM, MINISTÉRIO DA EDUCAÇÃO](https://github.com/ComicDeath/Proton-Collision-Classifier/blob/main/Figuras/  )
+![ILUM, CNPEM, MINISTÉRIO DA EDUCAÇÃO](https://github.com/ComicDeath/Proton-Collision-Classifier/blob/main/Figuras/ilum.png)

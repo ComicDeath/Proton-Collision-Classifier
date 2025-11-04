@@ -16,14 +16,14 @@ Modelo interpretável que divide o espaço de decisão com base em limiares suce
 ### `K-Nearest Neighbors (KNN)`
 Modelo que classifica as amostras com base na proximidade entre elas no espaço multidimensional das variáveis experimentais.
 
-### `SVM (Support Vector Machine)`
-Modelo que busca o melhor hiperplano de separação entre classes, utilizando diferentes kernels para capturar relações não lineares
+### `Regressão Logística (Logistic Regression)`
+Modelo estatístico utilizado para classificação, que calcula a probabilidade de cada classe com base em uma combinação linear das variáveis de entrada
 
 ### `Floresta Aleatória (Random Forest)`
 Modelo estilo comitê composto de múltiplas árvores de decisão treinadas de forma aleatória
 
-### `Regressão Logística (Logistic Regression)`
-Modelo estatístico utilizado para classificação, que calcula a probabilidade de cada classe com base em uma combinação linear das variáveis de entrada
+### `SVM (Support Vector Machine)`
+Modelo que busca o melhor hiperplano de separação entre classes, utilizando diferentes kernels para capturar relações não lineares
 
 # Instalação e como usar
 Para usar o projeto, deve-se clonar esse repositório em sua máquina e abri-lo em uma IDE compatível com arquivos do tipo ipynb. Depois, basta abrir o arquivo `Proton-Collision-Classifier.ipynb` para ler o notebook contendo a introdução teórica, o tratamento de dados, o treino dos modelos, discussão dos resultados e a conclusão que obtivemos nesse trabalho.
@@ -42,9 +42,16 @@ Caso seja do seu interesse, a pasta `Dataset` contém o conjunto de dados utiliz
 O projeto foi desenvolvido pela equipe **Os Apanhadores no Campo de Hádrons**, composta por uma dupla de estudantes cursando o segundo semestre do bacharelado em Ciência e Tecnologia oferecido pela Ilum Escola de Ciências - instituição de ensino superior do CNPEM.
 
 - [**Brenda Laube Abrunhosa**](https://github.com/blabrunhosa)
-* o que a brenda fez
+* Responsável pelos modelos KNN, Regressão Logística e Floresta Aleatória;
+* Responsável pela conclusão;
+* Auxiliou na discussão dos resultados e no processo de guiar o leitor
+
 - [**João Henrique de Lima Gasquez**](https://github.com/ComicDeath)
-* o que o joao fez
+* Responsável pelos modelos de Árvore de Decisão, SVM e Baseline;
+* Responsável pela introdução;
+* Responsável pelo tratamento de dados;
+* Auxiliou na discussão dos resultados e no processo de guiar o leitor
+* Escreveu o README
 
 ![Brasão da Guilda](https://github.com/ComicDeath/Proton-Collision-Classifier/blob/main/Figuras/brasao.png)
 

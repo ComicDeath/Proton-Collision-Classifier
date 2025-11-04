@@ -42,16 +42,16 @@ Caso seja do seu interesse, a pasta `Dataset` contém o conjunto de dados utiliz
 O projeto foi desenvolvido pela equipe **Os Apanhadores no Campo de Hádrons**, composta por uma dupla de estudantes cursando o segundo semestre do bacharelado em Ciência e Tecnologia oferecido pela Ilum Escola de Ciências - instituição de ensino superior do CNPEM.
 
 - [**Brenda Laube Abrunhosa**](https://github.com/blabrunhosa)
-* Responsável pelos modelos KNN, Regressão Logística e Floresta Aleatória;
-* Responsável pela conclusão;
-* Auxiliou na discussão dos resultados e no processo de guiar o leitor.
+  * Responsável pelos modelos KNN, Regressão Logística e Floresta Aleatória;
+  * Responsável pela conclusão;
+  * Auxiliou na discussão dos resultados e no processo de guiar o leitor.
 
 - [**João Henrique de Lima Gasquez**](https://github.com/ComicDeath)
-* Responsável pelos modelos de Árvore de Decisão, SVM e Baseline;
-* Responsável pela introdução;
-* Responsável pelo tratamento de dados;
-* Auxiliou na discussão dos resultados e no processo de guiar o leitor;
-* Escreveu o README.
+  * Responsável pelos modelos de Árvore de Decisão, SVM e Baseline;
+  * Responsável pela introdução;
+  * Responsável pelo tratamento de dados;
+  * Auxiliou na discussão dos resultados e no processo de guiar o leitor;
+  * Escreveu o README.
 
 ![Brasão da Guilda](https://github.com/ComicDeath/Proton-Collision-Classifier/blob/main/Figuras/brasao.png)
 

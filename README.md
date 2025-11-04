@@ -44,20 +44,20 @@ O projeto foi desenvolvido pela equipe **Os Apanhadores no Campo de Hádrons**, 
 - [**Brenda Laube Abrunhosa**](https://github.com/blabrunhosa)
 * Responsável pelos modelos KNN, Regressão Logística e Floresta Aleatória;
 * Responsável pela conclusão;
-* Auxiliou na discussão dos resultados e no processo de guiar o leitor
+* Auxiliou na discussão dos resultados e no processo de guiar o leitor.
 
 - [**João Henrique de Lima Gasquez**](https://github.com/ComicDeath)
 * Responsável pelos modelos de Árvore de Decisão, SVM e Baseline;
 * Responsável pela introdução;
 * Responsável pelo tratamento de dados;
-* Auxiliou na discussão dos resultados e no processo de guiar o leitor
-* Escreveu o README
+* Auxiliou na discussão dos resultados e no processo de guiar o leitor;
+* Escreveu o README.
 
 ![Brasão da Guilda](https://github.com/ComicDeath/Proton-Collision-Classifier/blob/main/Figuras/brasao.png)
 
 “Cada colisão conta uma história!”
   
-# Docentes
+# Docente
 A matéria de Aprendizado de Máquina foi ministrada por:
 - **Profº Dr. Daniel Roberto Cassar**
   
